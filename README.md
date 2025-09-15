@@ -10,10 +10,10 @@ Sample micro-service for Managing Card and Account creation, retrival, update an
 - Integrated with PostgreSQL database
 - Error handling with custom exceptions
 - Unit tests with JUnit & Mockito
-- Create Account/Card
-- Update Account/Card
-- Retrieve Account/Card
-- Deletion Account/Card
+- Create Account
+- Update Account
+- Retrieve Account
+- Deletion Account
 
 ---
 
