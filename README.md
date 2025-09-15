@@ -1,7 +1,7 @@
 # Spring Boot CRUD API  
 
-A simple REST API built with **Spring Boot**, **JPA/Hibernate**, and **PostgreSQL** to demonstrate basic **CRUD (Create, Read, Update, Delete)** operations.  
-
+A simple REST API built with **Spring Boot**, **JPA/Hibernate**, and **PostgreSQL** to demonstrate basic **CRUD (Create, Read, Update, Delete)** operations.
+Sample micro-service for Managing Card and Account creation, retrival, update and delete operation.
 ---
 
 ## 🚀 Features
@@ -10,6 +10,10 @@ A simple REST API built with **Spring Boot**, **JPA/Hibernate**, and **PostgreSQ
 - Integrated with PostgreSQL database
 - Error handling with custom exceptions
 - Unit tests with JUnit & Mockito
+- Create Account/Card
+- Update Account/Card
+- Retrieve Account/Card
+- Deletion Account/Card
 
 ---
 
